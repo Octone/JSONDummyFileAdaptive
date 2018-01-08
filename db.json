@@ -101,6 +101,22 @@
 					"URL":"small.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"2"
+				},{
+					"DATE":"11/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"NORMAL",
+					"URL":"small.mp4",
+					"TYPE":"VIDEO",
+					"SLOT":"2"
+				},{
+					"DATE":"11/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"NORMAL",
+					"URL":"small.mp4",
+					"TYPE":"VIDEO",
+					"SLOT":"2"
 				}]
 			},{
 				"LAYOUT":"3",
