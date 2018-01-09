@@ -117,6 +117,14 @@
 					"URL":"small.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"2"
+				},{
+					"DATE":"11/12/2017",
+					"START":"13.00",
+					"END":"15.00",
+					"PRIORITY":"NORMAL",
+					"URL":"http://via.placeholder.com/1280x720",
+					"TYPE":"IMAGE",
+					"SLOT":"1"
 				}]
 			},{
 				"LAYOUT":"3",
@@ -128,8 +136,15 @@
 					"URL":"small.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"1"
-				},
-				{
+				},{
+					"DATE":"11/12/2017",
+					"START":"13.00",
+					"END":"15.00",
+					"PRIORITY":"NORMAL",
+					"URL":"http://via.placeholder.com/1280x720",
+					"TYPE":"IMAGE",
+					"SLOT":"1"
+				},{
 					"DATE":"11/12/2017",
 					"START":"13.00",
 					"END":"14.00",
