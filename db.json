@@ -30,13 +30,20 @@
 					"URL":"https://wallpaperscraft.com/image/mountains_sky_bali_sunrise_kintamani_indonesia_95497_1920x1080.jpg",
 					"TYPE":"IMAGE",
 					"SLOT":"1"
-				},
-				{
+				},{
 					"DATE":"15/12/2017",
 					"START":"13.00",
 					"END":"17.00",
 					"PRIORITY":"HIGH",
 					"URL":"small.mp4",
+					"TYPE":"VIDEO",
+					"SLOT":"1"
+				},{
+					"DATE":"15/12/2017",
+					"START":"13.00",
+					"END":"17.00",
+					"PRIORITY":"HIGH",
+					"URL":"bunny_360.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"1"
 				}]
