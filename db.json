@@ -36,8 +36,8 @@
 					"START":"13.00",
 					"END":"17.00",
 					"PRIORITY":"HIGH",
-					"URL":"https://wallpaperscraft.com/image/everest_mountain_sky_tops_96976_1920x1080.jpg",
-					"TYPE":"IMAGE",
+					"URL":"bunny_720.mp4",
+					"TYPE":"VIDEO",
 					"SLOT":"1"
 				}]
 			},{
@@ -82,7 +82,7 @@
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"small.mp4",
+					"URL":"bunny_720.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"1"
 				},{
@@ -90,31 +90,7 @@
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"small.mp4",
-					"TYPE":"VIDEO",
-					"SLOT":"1"
-				},{
-					"DATE":"11/12/2017",
-					"START":"13.00",
-					"END":"14.00",
-					"PRIORITY":"NORMAL",
-					"URL":"small.mp4",
-					"TYPE":"VIDEO",
-					"SLOT":"2"
-				},{
-					"DATE":"11/12/2017",
-					"START":"13.00",
-					"END":"14.00",
-					"PRIORITY":"NORMAL",
-					"URL":"small.mp4",
-					"TYPE":"VIDEO",
-					"SLOT":"2"
-				},{
-					"DATE":"11/12/2017",
-					"START":"13.00",
-					"END":"14.00",
-					"PRIORITY":"NORMAL",
-					"URL":"small.mp4",
+					"URL":"bunny_720.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"2"
 				},{
@@ -133,7 +109,7 @@
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"small.mp4",
+					"URL":"bunny_720.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"1"
 				},{
@@ -158,8 +134,8 @@
 					"START":"13.00",
 					"END":"15.00",
 					"PRIORITY":"NORMAL",
-					"URL":"https://wallpaperscraft.com/image/sunset_winter_trees_landscape_86143_1920x1080.jpg",
-					"TYPE":"IMAGE",
+					"URL":"bunny_720.mp4",
+					"TYPE":"VIDEO",
 					"SLOT":"2"
 				},
 				{
@@ -167,8 +143,8 @@
 					"START":"13.00",
 					"END":"18.00",
 					"PRIORITY":"NORMAL",
-					"URL":"https://wallpaperscraft.com/image/mountains_sky_bali_sunrise_kintamani_indonesia_95497_1920x1080.jpg",
-					"TYPE":"IMAGE",
+					"URL":"bunny_720.mp4",
+					"TYPE":"VIDEO",
 					"SLOT":"3"
 				},
 				{
