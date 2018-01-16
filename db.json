@@ -103,6 +103,22 @@
 				},{
 					"DATE":"11/12/2017",
 					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"NORMAL",
+					"URL":"bunny_360.mp4",
+					"TYPE":"VIDEO",
+					"SLOT":"1"
+				},{
+					"DATE":"11/12/2017",
+					"START":"13.00",
+					"END":"14.00",
+					"PRIORITY":"NORMAL",
+					"URL":"bunny_360.mp4",
+					"TYPE":"VIDEO",
+					"SLOT":"2"
+				}{
+					"DATE":"11/12/2017",
+					"START":"13.00",
 					"END":"15.00",
 					"PRIORITY":"NORMAL",
 					"URL":"http://via.placeholder.com/1280x720",
@@ -116,7 +132,7 @@
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"bunny_720.mp4",
+					"URL":"bunny_360.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"1"
 				},{
@@ -141,7 +157,7 @@
 					"START":"13.00",
 					"END":"15.00",
 					"PRIORITY":"NORMAL",
-					"URL":"bunny_720.mp4",
+					"URL":"bunny_360.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"2"
 				},
@@ -150,7 +166,7 @@
 					"START":"13.00",
 					"END":"18.00",
 					"PRIORITY":"NORMAL",
-					"URL":"bunny_720.mp4",
+					"URL":"bunny_360.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"3"
 				},
