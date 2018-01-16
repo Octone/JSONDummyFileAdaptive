@@ -36,7 +36,7 @@
 					"START":"13.00",
 					"END":"17.00",
 					"PRIORITY":"HIGH",
-					"URL":"bunny_720.mp4",
+					"URL":"small.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"1"
 				}]
@@ -82,7 +82,7 @@
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"bunny_720.mp4",
+					"URL":"small.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"1"
 				},{
@@ -90,7 +90,7 @@
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"bunny_720.mp4",
+					"URL":"small.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"2"
 				},{
