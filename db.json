@@ -60,7 +60,7 @@
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"http://via.placeholder.com/960x1080",
+					"URL":"http://via.placeholder.com/1280x720",
 					"TYPE":"IMAGE",
 					"SLOT":"1"
 				},
@@ -70,7 +70,7 @@
 					"START":"13.00",
 					"END":"15.00",
 					"PRIORITY":"NORMAL",
-					"URL":"http://via.placeholder.com/1280x720",
+					"URL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxr0JklecF6yWBuDTYXZRPQ4n2yuOYviDqRPy7qjgIKeUskzgehg",
 					"TYPE":"IMAGE",
 					"SLOT":"1"
 				},
@@ -90,7 +90,7 @@
 					"START":"13.00",
 					"END":"17.00",
 					"PRIORITY":"HIGH",
-					"URL":"http://via.placeholder.com/600x400",
+					"URL":"https://cdn.vectorstock.com/i/1000x1000/99/24/fantastic-futuristic-background-vector-3739924.jpg",
 					"TYPE":"IMAGE",
 					"SLOT":"2"
 				},{
@@ -102,15 +102,6 @@
 					"URL":"bunny_720.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"2"
-				},{
-					"START_DATE":"20/01/2018",
-					"END_DATE":"30/01/2018",
-					"START":"13.00",
-					"END":"15.00",
-					"PRIORITY":"NORMAL",
-					"URL":"http://via.placeholder.com/1280x720",
-					"TYPE":"IMAGE",
-					"SLOT":"1"
 				}]
 			},{
 				"LAYOUT":"3",
