@@ -42,15 +42,6 @@
 					"URL":"small.mp4",
 					"TYPE":"VIDEO",
 					"SLOT":"1"
-				},{
-					"START_DATE":"20/01/2018",
-					"END_DATE":"30/01/2018",
-					"START":"13.00",
-					"END":"17.00",
-					"PRIORITY":"HIGH",
-					"URL":"bunny_720.mp4",
-					"TYPE":"VIDEO",
-					"SLOT":"1"
 				}]
 			},{
 				"LAYOUT":"2",
